@@ -90,4 +90,4 @@ A short, surreal narrative experience reflecting on isolation, identity, and tra
 
 ---
 
-Feel free to explore, and reach out for more information or collaboration!
+# Feel free to explore, and reach out for more information or collaboration!
