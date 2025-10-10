@@ -1,4 +1,4 @@
-# Portfolio Projects – Qinwen Tang
+# Portfolio Projects – [Qinwen Tang](https://www.linkedin.com/in/qinwentang/)
 
 This repository showcases a selection of my technical and game development projects built using Unity, C++, Python, and web tools. Most of these projects were created as part of my coursework or capstone projects at Rensselaer Polytechnic Institute (RPI), or through personal exploration and experimentation.
 
