@@ -10,7 +10,7 @@
 [查看中文设计拆解](./design-cn/intervitae.md)
 
 2. 《Jackpot Justice》  
-类肉鸽 / 随机武器 / 核心循环 / 风险回报
+类肉鸽 / 随机武器 / 核心循环 / 风险回报  
 [查看中文设计拆解](./design-cn/jackpot-justice.md)
 
 3. 《Tie the Knot》  
