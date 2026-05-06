@@ -1,3 +1,22 @@
+# Qinwen Tang｜游戏策划 / Gameplay Design 作品集
+
+> 中文策划向版本：请优先阅读以下项目拆解  
+> English technical portfolio is below.
+
+## 中文策划作品重点
+
+1. 《灵途：直觉学院》  
+叙事推理 / 证据系统 / 教程引导 / 交互设计  
+[查看中文设计拆解](./design-cn/intervitae.md)
+
+2. 《Jackpot Justice》  
+类肉鸽 / 随机武器 / 核心循环 / 风险回报
+[查看中文设计拆解](./design-cn/jackpot-justice.md)
+
+3. 《Tie the Knot》  
+玩法设计 / 教程引导 / 绳结交互  
+[查看中文设计拆解](./design-cn/tie-the-knot.md)
+
 # Portfolio Projects – [Qinwen Tang](https://www.linkedin.com/in/qinwentang/)
 
 This repository showcases a selection of my technical and game development projects built using Unity, C++, Python, and web tools. Most of these projects were created as part of my coursework or capstone projects at Rensselaer Polytechnic Institute (RPI), or through personal exploration and experimentation.
